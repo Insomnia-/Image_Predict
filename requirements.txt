@@ -4,6 +4,6 @@ decorator==4.4.2
 defusedxml==0.6.0
 opencv-python==4.2.0.34
 streamlit==0.58.0
-Pillow==7.1.2
+Pillow==9.0.0
 tensorflow==1.15.2
 keras==2.3.1
